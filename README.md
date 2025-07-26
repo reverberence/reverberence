@@ -10,10 +10,10 @@
 
 With over 13 years of experience in embedded software development, I bring expertise in:
 
-- ✅ Automotive telematics and infotainment systems
-- ✅ Secure boot, OTA updates, and cryptographic authentication
-- ✅ Linux platform development
-- ✅ Debugging, CVE patching, and low-level firmware integration
+- ✅ Automotive telematics
+- ✅ OTA updates, cryptographic authentication, remote commands, generic application implementation
+- ✅ Linux platform development, FreeRTOS
+- ✅ Software Architecture, Software Design, Debugging, CVE patching, and low-level firmware integration
 
 I love building efficient, secure, and scalable embedded systems that power real-world products.
 
@@ -22,8 +22,8 @@ I love building efficient, secure, and scalable embedded systems that power real
 ### 🔧 Skills
 
 - **Languages:** C, C++, Python, Bash
-- **Technologies:** Embedded Linux, U-Boot, Secure Boot, OTA, OpenSSL
-- **Platforms:** Qualcomm (SA515M, 9x28), NXP, STM32
+- **Technologies:** Embedded Linux, Secure Boot, OTA, OpenSSL
+- **Platforms:** Qualcomm (SA515M, 9x28), NXP, ESP32
 - **Tools:** Git, Yocto, GDB, Make, Jira, GitHub Actions
 
 ---
